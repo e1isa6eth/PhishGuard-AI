@@ -48,6 +48,7 @@ Optional — to use Foundry IQ instead of GitHub Models:
    AZURE_AI_KEY=your-azure-ai-foundry-key
 
 Run it:
+cd phishing-agent.zip\v16
    python main.py
 
 Open http://localhost:8000 in your browser.
